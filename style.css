@@ -1,0 +1,77 @@
+h1{
+    color: green;
+}
+ul{
+    color: black
+}
+ol{
+    color: darkblue;
+}
+table {
+    color: white;
+}
+form {
+    color: green
+}
+ol {
+    font-style: italic;
+}
+h1{
+    background: white
+}
+body{
+    background-image: url(20221210_052207.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+h3{
+    color: aqua; 
+    border-color: darkblue;
+    border-width: 5px;
+    border-style: dotted;
+}
+img {
+    border-color: white;
+    border-width: 2px;
+    border-style: dotted;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+header {
+    background-color: #007acc;
+    color: #fff;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.services {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+li {
+    font-family: brush system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
